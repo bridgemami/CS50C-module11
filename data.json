@@ -1,0 +1,30 @@
+[
+  {
+    "value": 44,
+    "color": "cyan"
+  },
+  {
+    "value": 55,
+    "color": "red"
+  },
+  {
+    "value": 66,
+    "color": "yellow"
+  },
+  {
+    "value": 77,
+    "color": "green"
+  },
+  {
+    "value": 33,
+    "color": "purple"
+  },
+  {
+    "value": 22,
+    "color": "orange"
+  },
+  {
+    "value": 11,
+    "color": "pink"
+  }
+]
