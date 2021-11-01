@@ -40,7 +40,7 @@ for (var i=0; i < (data.length); i++) {
 console.log("total: " + total + " & " + percent);
 //slicing
 for(var i=0; i< (data.length); i++){
-//slicing
+//starting path
 console.log("begin path");
 pie.beginPath();
 //middle of Canvas
